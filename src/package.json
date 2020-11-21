@@ -1,0 +1,19 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "description": "Simple NodeJS project running in Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adityabisoi/nodeJS-docker.git"
+  },
+  "author": "Aditya Bisoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityabisoi/nodeJS-docker/issues"
+  },
+  "homepage": "https://github.com/adityabisoi/nodeJS-docker#readme"
+}
